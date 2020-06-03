@@ -7,6 +7,6 @@ class Octopus {
     console.log(`${this.name} loves to dance`);
   }
   sayHello() {
-    console.log(`${this.name} says hello`);
+    console.log(`${this.name} says hello with a cheery tone`);
   }
 }
