@@ -4,6 +4,6 @@ class Octopus {
     this.colour = colour;
   }
   dance() {
-    console.log(`${this.name} dances majestically to the beat of the ocean`);
+    console.log(`${this.name} loves to dance`);
   }
 }
