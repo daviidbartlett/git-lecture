@@ -3,4 +3,7 @@ class Octopus {
     this.name = name;
     this.colour = colour;
   }
+  dance() {
+    console.log(`${this.name} loves to dance`);
+  }
 }
